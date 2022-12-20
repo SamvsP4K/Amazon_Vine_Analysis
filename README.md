@@ -4,7 +4,7 @@
 
 The purpose of this analysis was to take a dataset from an S3 bucket, clean the data, and store it in a Postgres SQL database that is hosted in an AWS instance.
 
-[Link to the S3 bucket used](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Pet_Products_v1_00.tsv.gz)
+[Link to the S3 bucket used](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Pet_Products_v1_00.tsv.gz) -- Clicking link will intiate download of the dataset to your PC.
 
 ## Cleaning and Storing Process:
 
